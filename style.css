@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.title{
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-overflow: none;
+    text-shadow: none;
+    text-rendering: none;
+    text-indent: none;
+    text-align: justify;
+}
