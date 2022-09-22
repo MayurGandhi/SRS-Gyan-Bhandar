@@ -5,7 +5,16 @@ body{
     text-decoration: solid;
     text-transform: capitalize; 
 } */
-iframe{
+/*iframe{
     height: 1200px;
     width: 1000px;
+} */
+
+.hero-img{
+    max-height: 250px;
+    max-width: 250px;
+    display: block;
+    /* align-self: center; */
+    padding-left: 5rem;
+    
 }
