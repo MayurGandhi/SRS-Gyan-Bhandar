@@ -5,16 +5,3 @@ body{
     text-decoration: solid;
     text-transform: capitalize; 
 } */
-
-.list{
-    size: 100px;
-}
-body{
-    margin: 20px;
-
-}
-iframe{
-    border-width: 5px;
-    height: 1000px;
-    width: 700px;
-}
